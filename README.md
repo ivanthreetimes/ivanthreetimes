@@ -3,7 +3,7 @@
 
 <h3>Github Stats:</h3>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanthreetimes&count_private=true&show_icons=true&theme=chartreuse-dark" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanthreetimes&layout=compact&theme=chartreuse-dark"/></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanthreetimes&count_private=true&show_icons=true&theme=dark" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanthreetimes&layout=compact&theme=dark"/></a> |
 | ------------- | ------------- |
 
 
