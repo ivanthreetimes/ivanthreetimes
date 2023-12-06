@@ -9,9 +9,6 @@
 
 <h3>GitHub Trophies</h3>
 
-<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ivanthreetimes&column=7&theme=chartreuse-dark" alt="GitHub Trophies" /></a>
-
-
-
+<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /></a>
 
 
