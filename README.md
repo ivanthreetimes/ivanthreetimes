@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanthreetimes&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanthreetimes)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ivanthreetimes/ivanthreetimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
