@@ -1,4 +1,4 @@
-<h1>Greetings! <img src="https://static.wikia.nocookie.net/wowpedia/images/e/e7/Tauren_Dancing.gif/revision/latest/scale-to-width-down/250?cb=20090606164129" width="40" /></h1>
+<h3>Greetings! <img src="https://static.wikia.nocookie.net/wowpedia/images/e/e7/Tauren_Dancing.gif/revision/latest/scale-to-width-down/250?cb=20090606164129" width="40" /></h3>
 
 
 <h3>Github Stats:</h3>
