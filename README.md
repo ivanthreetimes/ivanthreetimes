@@ -4,8 +4,6 @@ My name is Ivan, and I'm an Applied Physics student with a fervent curiosity spa
 
 <h3>Skills:</h3>
 
-👨‍💻
-
 
 - 🐍 Python
 - 💻 Django
